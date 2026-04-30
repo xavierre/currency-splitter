@@ -17,21 +17,13 @@ Dynamis Distributor helps FFXI players calculate fair distribution of ancient cu
 - **Discord Export**: Generate copyable Discord summary text
 - **Run History**: Save runs for future reference
 
-## Currency Types
-
-| Type | Name | Zones |
-|------|------|-------|
-| Byne | One-Byne Bill | All original zones |
-| Silver | Ordelle Bronzepiece | Jeuno, Beaucedine, Xarcabard, Dreamlands |
-| Shell | Tukuku Whiteshell | Windurst, Jeuno, Beaucedine, Xarcabard, Dreamlands |
-
 ## Usage
 
 1. Select a Dynamis region (Original or Dreamlands)
 2. Choose the zone from the instance bar
 3. Add players using the "+ Add Player" button
 4. Enter any relic sales to reduce entry fees
-5. Add currency drops for each player
+5. Add currency drops, respectivily the singles and 100's
 6. Click "Calculate Distribution" to see results
 7. Use "Draw Winners" for leftover lottery
 8. Copy the Discord summary or save the run
