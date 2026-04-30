@@ -133,7 +133,7 @@
   }
   /* Bloom layer behind the title */
   header h1::before {
-    content: '⚔ Dynamis Distributor';
+    content: 'Dynamis Currency Split';
     position: absolute;
     inset: 0;
     color: transparent;
